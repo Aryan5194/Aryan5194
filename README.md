@@ -45,7 +45,6 @@ My journey in computer science has ignited a strong passion for cybersecurity, d
 
 <div>
 <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-%23049fd9.svg?style=flat&logo=cisco&logoColor=white)](https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials" /> 
-<img src="https://img.shields.io/badge/Zscaler-Fundamentals%20of%20Cybersecurity-%230099FF.svg?style=flat&logo=zscaler&logoColor=white)](https://www.zscaler.com" /> <br>
 <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Packet%20Tracer-%23049fd9.svg?style=flat&logo=cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer/introduction-packet-tracer" /> 
 <img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-%23232F3E.svg?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/training/awsacademy/" /> <br>
 <img src="https://img.shields.io/badge/AWS%20Academy-Machine%20Learning-%23232F3E.svg?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/training/awsacademy/" />
