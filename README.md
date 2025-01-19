@@ -38,7 +38,7 @@ My journey in computer science has ignited a strong passion for cybersecurity, d
 |-----------------------------------------------|----------------------------|
 | Offensive Security and Cybersecurity          | Keylogger |
 | Defensive Security and Network Security       | Network Traffic analysis |
-| Security Information and Event Management     | Loganalyzer |
+| Security Information and Event Management     | Botnet Detection using Machine Learning |
 | Threat Detection and Response                 | Ransomware Detection and Prevention |
 
 ## Certifications 
