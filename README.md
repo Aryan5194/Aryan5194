@@ -1,7 +1,7 @@
 # Hello, I'm Aryan Rai
 <a href="https://www.linkedin.com/in/aryanrai5194/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a final year Bachelor of Technology undergraduate with a profound interest in technology and a dedication to learn everything about them to know ,reduce and eradicate complex problems.
+I am a final year Bachelor of Technology graduate with a profound interest in technology and a dedication to learn everything about them to know ,reduce and eradicate complex problems.
 
 ## Objective
 
