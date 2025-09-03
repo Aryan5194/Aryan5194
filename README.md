@@ -49,7 +49,7 @@ My journey in computer science has ignited a strong passion for cybersecurity, d
 | Defensive Security and Network Security       | Network Traffic analysis |
 | Security Information and Event Management     | Botnet Detection using Machine Learning |
 | Threat Detection and Response                 | Ransomware Detection using Machine Learning |
-| Cryptography and Socket Programming           | Secure Chat Application |
+| Cryptography and Socket Programming           | EncipherChat |
 | C++ and OOPs                                  | Bank Management System |
 
 ## Certifications 
